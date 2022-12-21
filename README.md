@@ -12,7 +12,7 @@
 
 ### Step 1. git clone https://github.com/Defalt00FFFF/Ripamoramee.git
 
-### Step 2. pip install
+### Step 2. pip install pycryptodome
 
 ### Step 3. cd Ripamoramee/
 
